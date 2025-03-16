@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+crewai
+langchain
+openai
+huggingface_hub
+yfinance
+transformers
+pandas
+numpy
